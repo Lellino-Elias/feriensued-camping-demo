@@ -230,7 +230,7 @@ export const feriensued: CampsiteConfig = {
     telHref: "tel:+436641011737",
     mail: "office@feriensued.com",
     adresse: "Südpromenade 57 · 9122 St. Kanzian am Klopeiner See · Kärnten",
-    coords: { lat: 46.59946, lng: 14.58277 },
+    coords: { lat: 46.599457, lng: 14.582835 },
   },
 
   languages: ["DE"],
