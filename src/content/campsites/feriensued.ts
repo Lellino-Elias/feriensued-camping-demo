@@ -53,7 +53,7 @@ export const feriensued: CampsiteConfig = {
     },
     {
       title: "Küche mit Fisch & Wild",
-      text: “Frischer Fisch und regionale Wild-Spezialitäten — Rudi Katschnig wurde als „Koch des Jahres” ausgezeichnet.”,
+      text: "Frischer Fisch und regionale Wild-Spezialitäten — Rudi Katschnig wurde als „Koch des Jahres“ ausgezeichnet.",
       image: { src: `${IMG}/pillar-kueche.webp`, alt: "Rudi Katschnig mit fangfrischem Hecht aus dem Klopeiner See" },
     },
   ],
