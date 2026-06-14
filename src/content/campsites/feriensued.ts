@@ -53,7 +53,7 @@ export const feriensued: CampsiteConfig = {
     },
     {
       title: "Küche mit Fisch & Wild",
-      text: "Frischer Fisch aus den umliegenden Gewässern und regionale Wild-Spezialitäten — Rudi Katschnig wurde als „Koch des Jahres“ ausgezeichnet.",
+      text: “Frischer Fisch und regionale Wild-Spezialitäten — Rudi Katschnig wurde als „Koch des Jahres” ausgezeichnet.”,
       image: { src: `${IMG}/pillar-kueche.webp`, alt: "Rudi Katschnig mit fangfrischem Hecht aus dem Klopeiner See" },
     },
   ],
@@ -94,7 +94,7 @@ export const feriensued: CampsiteConfig = {
     features: [
       {
         title: "80 Stellplätze mit Strom",
-        text: "Auf einer Gesamtfläche von ca. 10.000 m² finden Sie 80 schöne, ruhige Stellplätze mit Stromanschluss für Wohnwagen, Wohnmobil und Zelt.",
+        text: "80 schöne, ruhige Stellplätze auf ca. 10.000 m² mit Stromanschluss für Wohnwagen, Wohnmobil und Zelt.",
         image: { src: `${IMG}/camping-stellplaetze.webp`, alt: "Stellplätze mit Wohnwagen direkt am Ufer des Klopeiner Sees" },
       },
       {
@@ -114,7 +114,7 @@ export const feriensued: CampsiteConfig = {
       },
       {
         title: "Rundum versorgt",
-        text: "Ausreichend Parkplätze, ein benachbarter Beach-Volley-Platz und eine Tauchschule sowie täglicher Bäckerservice — auch an Sonn- und Feiertagen.",
+        text: "Täglicher Bäckerservice, Beach-Volleyball und eine Tauchschule — auch an Sonn- und Feiertagen bestens versorgt.",
         image: { src: `${IMG}/camping-flair.webp`, alt: "Gepflegtes Campinggelände mit Sanitärgebäude und Liegewiese" },
       },
     ],
@@ -157,7 +157,7 @@ export const feriensued: CampsiteConfig = {
     items: [
       {
         title: "Seegasthof-Restaurant",
-        text: "Gemütliches Restaurant mit regionaler Küche, geöffnet von Dienstag bis Sonntag (Montag Ruhetag). Küchenzeiten 11:30–13:30 und 18:00–20:30 Uhr.",
+        text: "Gemütliches Restaurant mit regionaler Küche, Di–So geöffnet; Küchenzeiten 11:30–13:30 und 18:00–20:30 Uhr.",
         image: { src: `${IMG}/gasthof-restaurant.webp`, alt: "Restaurantstube im Seegasthof Katschnig mit Seeblick" },
       },
       {
@@ -172,7 +172,7 @@ export const feriensued: CampsiteConfig = {
       },
       {
         title: "Baden & Wassersport",
-        text: "Schwimmen, Segeln, Surfen, Stand-Up-Paddeln, Tauchen und Angeln am See — dazu Wandern und Radtouren als Ausgangspunkt in die Region.",
+        text: "Schwimmen, Segeln, Surfen, Stand-Up-Paddeln, Tauchen und Angeln — dazu Wandern und Radtouren in die Umgebung.",
         image: { src: `${IMG}/see-baden.webp`, alt: "Steg am Klopeiner See" },
       },
     ],
