@@ -95,7 +95,7 @@ export const feriensued: CampsiteConfig = {
       {
         title: "80 Stellplätze mit Strom",
         text: "Auf einer Gesamtfläche von ca. 10.000 m² finden Sie 80 schöne, ruhige Stellplätze mit Stromanschluss für Wohnwagen, Wohnmobil und Zelt.",
-        image: { src: `${IMG}/camping-stellplaetze.webp`, alt: "Stellplätze mit Wohnwagen und Wohnmobil auf der Wiese am Klopeiner See" },
+        image: { src: `${IMG}/camping-stellplaetze-see.webp`, alt: "Stellplätze mit Wohnwagen direkt am Ufer des Klopeiner Sees" },
       },
       {
         title: "Freie Strandbenützung",
